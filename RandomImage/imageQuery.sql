@@ -1,0 +1,1 @@
+create table Random_Image (id number,image blob);

@@ -1,0 +1,2 @@
+http://localhost:4541/randomImageGenerate/99
+http://localhost:4541/images
