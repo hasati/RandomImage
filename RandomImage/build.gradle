@@ -10,7 +10,7 @@ jar {
     }
 }
 
-task stage() {
+task stage(){
     dependsOn clean, war
 }
 
